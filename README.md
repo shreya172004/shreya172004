@@ -36,7 +36,7 @@ I believe in **learning** by doing, contributing to projects, and sharing my jou
 - Linux, Git & GitHub
 - Monitoring & system health checks
 - Cloud-native best practices
-- 
+
 ---
 
 ## 📂 Projects & Practice
