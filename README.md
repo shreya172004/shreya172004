@@ -2,8 +2,6 @@
 
 🚀 Aspiring Cloud & Software Engineer | AWS | Python | Java | Docker | Containers    
 
----
-
 👩‍💻 About Me  
 
 I'm a Computer Science Engineering student with a strong passion for **Cloud Computing and DevOps**. I enjoy designing, automating, and monitoring scalable systems while  strengthening my fundamentals through hands-on experimentation.
