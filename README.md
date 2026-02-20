@@ -78,4 +78,4 @@ I'm interested in collaborating on anything related to:
 
   *“Currently deepening my expertise in AWS, containerization, and workflow automation."*
 
-[![](https://visitcount.itsvg.in/api?id=itzmayank01&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shreya172004&color=6)](https://visitcount.itsvg.in)
