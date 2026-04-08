@@ -67,6 +67,12 @@ I'm interested in collaborating on anything related to:
 
 ---
 
+  ## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya172004&theme=github-dark&hide_border=true&area=true" />
+</p>
+
   ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shreya-mahara-5a906b28b/)
